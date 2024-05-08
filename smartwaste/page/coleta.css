@@ -62,7 +62,7 @@ nav ul li a:hover {
     text-align: center;
     max-width: 500px; /* Largura máxima do container */
     width: 80%; /* Largura do container */
-    margin: 0px 300px 20px; /* Margem superior, inferior e centralização do container */
+    margin: 200px 300px 20px; /* Margem superior, inferior e centralização do container */
     box-sizing: border-box; /* Garante que a largura inclui a borda */
 }
 
