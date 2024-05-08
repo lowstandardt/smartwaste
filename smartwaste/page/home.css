@@ -9,6 +9,7 @@ body {
     background-image: url('banner.jpg'); /*caminho da sua imagem */
     background-size: 100% 100%; /* Para cobrir toda a área do corpo */
     background-position: center; /* Para centralizar a imagem */
+    background-repeat: no-repeat;
 }
 
 header {
