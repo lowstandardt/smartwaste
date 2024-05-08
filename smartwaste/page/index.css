@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #13cf02;
     color: white;
     padding: 20px;
     display: flex;
@@ -45,7 +45,7 @@ nav ul li a:hover {
 }
 
 .container {
-    border: 2px solid #0056b3;
+    border: 2px solid #13cf02;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
