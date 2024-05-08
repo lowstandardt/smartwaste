@@ -10,7 +10,8 @@ body {
 }
 
 header {
-    background-color: #13cf02;
+    background-color: #058a2d;
+
     color: white;
     padding: 20px; /* Ajustando o padding */
     display: flex;
@@ -47,8 +48,9 @@ nav ul li a {
     padding: 10px 20px;
     border-radius: 20px;
     transition: background-color 0.3s ease;
+    border: solid rgb(243, 243, 243) 2px;
 }
 
 nav ul li a:hover {
-    background-color: #0056b3;
+    background-color: #00ca3d;
 }
