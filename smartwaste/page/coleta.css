@@ -56,13 +56,13 @@ nav ul li a:hover {
 }
 
 .container {
-    border: 2px solid #0056b3;
+    border: 2px solid #058a2d;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
     max-width: 500px; /* Largura máxima do container */
     width: 80%; /* Largura do container */
-    margin: 300px 300px 20px; /* Margem superior, inferior e centralização do container */
+    margin: 0px 300px 20px; /* Margem superior, inferior e centralização do container */
     box-sizing: border-box; /* Garante que a largura inclui a borda */
 }
 
@@ -89,7 +89,7 @@ select {
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #058a2d;
     color: white;
     border: none;
     border-radius: 5px;
@@ -98,5 +98,5 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #04be3c;
 }
